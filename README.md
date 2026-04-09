@@ -32,6 +32,6 @@ OvoMatrix is a cutting-edge graphical dashboard and backend orchestrator. It mon
 ## 🐛 Feedback & Bug Reports
 Your feedback is extremely valuable as we continuously seek to improve OvoMatrix for real-world farming environments. If you encounter a bug or if you simply have suggestions to improve the user experience:
 
-📧 **Contact:** [your_email@gmail.com]
+📧 **Contact:** ellsimohammed8@gmail.com
 
 Thank you for choosing OvoMatrix for your farm's safety and prosperity. 🐔💼
